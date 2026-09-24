@@ -6,7 +6,7 @@ TypeScript
 React
 shadcn-ui
 Tailwind CSS
-All shadcn/ui components have been downloaded under @/components/ui.
+
 
 File Structure
 index.html - HTML entry point
